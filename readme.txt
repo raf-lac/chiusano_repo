@@ -1,3 +1,3 @@
 FILE DI BASE
 
-ciao, mi piace la pizza.
+ciao, sono marco, questo è il mio nuovo repository
